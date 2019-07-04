@@ -1,0 +1,975 @@
+[
+    {
+        "name": "Black Knight's Fortress",
+        "quest_points_reward": "3",
+        "length": "3 Medium",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Black_Knight%27s_Fortress"
+    },
+    {
+        "name": "Cook's Assistant",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Cook%27s_Assistant"
+    },
+    {
+        "name": "The Corsair Curse",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Corsair_Curse"
+    },
+    {
+        "name": "Demon Slayer",
+        "quest_points_reward": "3",
+        "length": "3 Medium",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Demon_Slayer"
+    },
+    {
+        "name": "Doric's Quest",
+        "quest_points_reward": "1",
+        "length": "1 Very Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Doric%27s_Quest"
+    },
+    {
+        "name": "Dragon Slayer",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Dragon_Slayer"
+    },
+    {
+        "name": "Ernest the Chicken",
+        "quest_points_reward": "4",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Ernest_the_Chicken"
+    },
+    {
+        "name": "Goblin Diplomacy",
+        "quest_points_reward": "5",
+        "length": "1 Very Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Goblin_Diplomacy"
+    },
+    {
+        "name": "Imp Catcher",
+        "quest_points_reward": "1",
+        "length": "1 Very Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Imp_Catcher"
+    },
+    {
+        "name": "The Knight's Sword",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Knight%27s_Sword"
+    },
+    {
+        "name": "Misthalin Mystery",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Misthalin_Mystery"
+    },
+    {
+        "name": "Pirate's Treasure",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Pirate%27s_Treasure"
+    },
+    {
+        "name": "Prince Ali Rescue",
+        "quest_points_reward": "3",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Prince_Ali_Rescue"
+    },
+    {
+        "name": "The Restless Ghost",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Restless_Ghost"
+    },
+    {
+        "name": "Romeo & Juliet",
+        "quest_points_reward": "5",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Romeo_%26_Juliet"
+    },
+    {
+        "name": "Rune Mysteries",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Rune_Mysteries"
+    },
+    {
+        "name": "Sheep Shearer",
+        "quest_points_reward": "1",
+        "length": "1 Very Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Sheep_Shearer"
+    },
+    {
+        "name": "Shield of Arrav",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Shield_of_Arrav"
+    },
+    {
+        "name": "Vampire Slayer",
+        "quest_points_reward": "3",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Vampire_Slayer"
+    },
+    {
+        "name": "Witch's Potion",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": false,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Witch%27s_Potion"
+    },
+    {
+        "name": "Animal Magnetism",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Animal_Magnetism"
+    },
+    {
+        "name": "Another Slice of H.A.M.",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Another_Slice_of_H.A.M."
+    },
+    {
+        "name": "Between a Rock...",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Between_a_Rock..."
+    },
+    {
+        "name": "Big Chompy Bird Hunting",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Big_Chompy_Bird_Hunting"
+    },
+    {
+        "name": "Biohazard",
+        "quest_points_reward": "3",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Biohazard"
+    },
+    {
+        "name": "Bone Voyage",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Bone_Voyage"
+    },
+    {
+        "name": "Cabin Fever",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Cabin_Fever"
+    },
+    {
+        "name": "Client of Kourend",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Client_of_Kourend"
+    },
+    {
+        "name": "Clock Tower",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Clock_Tower"
+    },
+    {
+        "name": "Cold War",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Cold_War"
+    },
+    {
+        "name": "Contact!",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Contact!"
+    },
+    {
+        "name": "Creature of Fenkenstrain",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Creature_of_Fenkenstrain"
+    },
+    {
+        "name": "Darkness of Hallowvale",
+        "quest_points_reward": "2",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Darkness_of_Hallowvale"
+    },
+    {
+        "name": "Death Plateau",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Death_Plateau"
+    },
+    {
+        "name": "Death to the Dorgeshuun",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Death_to_the_Dorgeshuun"
+    },
+    {
+        "name": "The Depths of Despair",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Depths_of_Despair"
+    },
+    {
+        "name": "Desert Treasure",
+        "quest_points_reward": "3",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Desert_Treasure"
+    },
+    {
+        "name": "Devious Minds",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Devious_Minds"
+    },
+    {
+        "name": "The Digsite",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Digsite"
+    },
+    {
+        "name": "Dragon Slayer II",
+        "quest_points_reward": "5",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Dragon_Slayer_II"
+    },
+    {
+        "name": "Dream Mentor",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Dream_Mentor"
+    },
+    {
+        "name": "Druidic Ritual",
+        "quest_points_reward": "4",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Druidic_Ritual"
+    },
+    {
+        "name": "Dwarf Cannon",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Dwarf_Cannon"
+    },
+    {
+        "name": "Eadgar's Ruse",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Eadgar%27s_Ruse"
+    },
+    {
+        "name": "Eagles' Peak",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Eagles%27_Peak"
+    },
+    {
+        "name": "Elemental Workshop I",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Elemental_Workshop_I"
+    },
+    {
+        "name": "Elemental Workshop II",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Elemental_Workshop_II"
+    },
+    {
+        "name": "Enakhra's Lament",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Enakhra%27s_Lament"
+    },
+    {
+        "name": "Enlightened Journey",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Enlightened_Journey"
+    },
+    {
+        "name": "The Eyes of Glouphrie",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Eyes_of_Glouphrie"
+    },
+    {
+        "name": "Fairytale I - Growing Pains",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Fairytale_I_-_Growing_Pains"
+    },
+    {
+        "name": "Fairytale II - Cure a Queen",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Fairytale_II_-_Cure_a_Queen"
+    },
+    {
+        "name": "Family Crest",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Family_Crest"
+    },
+    {
+        "name": "The Feud",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Feud"
+    },
+    {
+        "name": "Fight Arena",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Fight_Arena"
+    },
+    {
+        "name": "Fishing Contest",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Fishing_Contest"
+    },
+    {
+        "name": "Forgettable Tale of a Drunken Dwarf",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Forgettable_Tale_of_a_Drunken_Dwarf"
+    },
+    {
+        "name": "The Fremennik Isles",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Fremennik_Isles"
+    },
+    {
+        "name": "The Fremennik Trials",
+        "quest_points_reward": "3",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Fremennik_Trials"
+    },
+    {
+        "name": "Garden of Tranquillity",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Garden_of_Tranquillity"
+    },
+    {
+        "name": "Gertrude's Cat",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Gertrude%27s_Cat"
+    },
+    {
+        "name": "Ghosts Ahoy",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Ghosts_Ahoy"
+    },
+    {
+        "name": "The Giant Dwarf",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Giant_Dwarf"
+    },
+    {
+        "name": "The Golem",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Golem"
+    },
+    {
+        "name": "The Grand Tree",
+        "quest_points_reward": "5",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Grand_Tree"
+    },
+    {
+        "name": "The Great Brain Robbery",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Great_Brain_Robbery"
+    },
+    {
+        "name": "Grim Tales",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Grim_Tales"
+    },
+    {
+        "name": "The Hand in the Sand",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Hand_in_the_Sand"
+    },
+    {
+        "name": "Haunted Mine",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Haunted_Mine"
+    },
+    {
+        "name": "Hazeel Cult",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Hazeel_Cult"
+    },
+    {
+        "name": "Heroes' Quest",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Heroes%27_Quest"
+    },
+    {
+        "name": "Holy Grail",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Holy_Grail"
+    },
+    {
+        "name": "Horror from the Deep",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Horror_from_the_Deep"
+    },
+    {
+        "name": "Icthlarin's Little Helper",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Icthlarin%27s_Little_Helper"
+    },
+    {
+        "name": "In Aid of the Myreque",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/In_Aid_of_the_Myreque"
+    },
+    {
+        "name": "In Search of the Myreque",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/In_Search_of_the_Myreque"
+    },
+    {
+        "name": "Jungle Potion",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Jungle_Potion"
+    },
+    {
+        "name": "King's Ransom",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/King%27s_Ransom"
+    },
+    {
+        "name": "Legends' Quest",
+        "quest_points_reward": "4",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Legends%27_Quest"
+    },
+    {
+        "name": "Lost City",
+        "quest_points_reward": "3",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Lost_City"
+    },
+    {
+        "name": "The Lost Tribe",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Lost_Tribe"
+    },
+    {
+        "name": "Lunar Diplomacy",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Lunar_Diplomacy"
+    },
+    {
+        "name": "Making Friends With My Arm",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Making_Friends_With_My_Arm"
+    },
+    {
+        "name": "Making History",
+        "quest_points_reward": "3",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Making_History"
+    },
+    {
+        "name": "Merlin's Crystal",
+        "quest_points_reward": "6",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Merlin%27s_Crystal"
+    },
+    {
+        "name": "Monkey Madness I",
+        "quest_points_reward": "3",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Monkey_Madness_I"
+    },
+    {
+        "name": "Monkey Madness II",
+        "quest_points_reward": "4",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Monkey_Madness_II"
+    },
+    {
+        "name": "Monk's Friend",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Monk%27s_Friend"
+    },
+    {
+        "name": "Mountain Daughter",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Mountain_Daughter"
+    },
+    {
+        "name": "Mourning's Ends Part I",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Mourning%27s_Ends_Part_I"
+    },
+    {
+        "name": "Mourning's Ends Part II",
+        "quest_points_reward": "2",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Mourning%27s_Ends_Part_II"
+    },
+    {
+        "name": "Murder Mystery",
+        "quest_points_reward": "3",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Murder_Mystery"
+    },
+    {
+        "name": "My Arm's Big Adventure",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/My_Arm%27s_Big_Adventure"
+    },
+    {
+        "name": "Nature Spirit",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Nature_Spirit"
+    },
+    {
+        "name": "Observatory Quest",
+        "quest_points_reward": "2",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Observatory_Quest"
+    },
+    {
+        "name": "Olaf's Quest",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Olaf%27s_Quest"
+    },
+    {
+        "name": "One Small Favour",
+        "quest_points_reward": "2",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/One_Small_Favour"
+    },
+    {
+        "name": "Plague City",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Plague_City"
+    },
+    {
+        "name": "Priest in Peril",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Priest_in_Peril"
+    },
+    {
+        "name": "The Queen of Thieves",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Queen_of_Thieves"
+    },
+    {
+        "name": "Rag and Bone Man",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Rag_and_Bone_Man"
+    },
+    {
+        "name": "Rag and Bone Man II",
+        "quest_points_reward": "1",
+        "length": "N/A",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Rag_and_Bone_Man_II"
+    },
+    {
+        "name": "Ratcatchers",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Ratcatchers"
+    },
+    {
+        "name": "Recipe for Disaster",
+        "quest_points_reward": "10",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Recipe_for_Disaster"
+    },
+    {
+        "name": "Recruitment Drive",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Recruitment_Drive"
+    },
+    {
+        "name": "Regicide",
+        "quest_points_reward": "3",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Regicide"
+    },
+    {
+        "name": "Roving Elves",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Roving_Elves"
+    },
+    {
+        "name": "Royal Trouble",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Royal_Trouble"
+    },
+    {
+        "name": "Rum Deal",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Rum_Deal"
+    },
+    {
+        "name": "Scorpion Catcher",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Scorpion_Catcher"
+    },
+    {
+        "name": "Sea Slug",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Sea_Slug"
+    },
+    {
+        "name": "Shades of Mort'ton",
+        "quest_points_reward": "3",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Shades_of_Mort%27ton"
+    },
+    {
+        "name": "Shadow of the Storm",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Shadow_of_the_Storm"
+    },
+    {
+        "name": "Sheep Herder",
+        "quest_points_reward": "4",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Sheep_Herder"
+    },
+    {
+        "name": "Shilo Village",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Shilo_Village"
+    },
+    {
+        "name": "The Slug Menace",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Slug_Menace"
+    },
+    {
+        "name": "A Soul's Bane",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/A_Soul%27s_Bane"
+    },
+    {
+        "name": "Spirits of the Elid",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Spirits_of_the_Elid"
+    },
+    {
+        "name": "Swan Song",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Swan_Song"
+    },
+    {
+        "name": "Tai Bwo Wannai Trio",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tai_Bwo_Wannai_Trio"
+    },
+    {
+        "name": "A Tail of Two Cats",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/A_Tail_of_Two_Cats"
+    },
+    {
+        "name": "Tale of the Righteous",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tale_of_the_Righteous"
+    },
+    {
+        "name": "A Taste of Hope",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/A_Taste_of_Hope"
+    },
+    {
+        "name": "Tears of Guthix",
+        "quest_points_reward": "1",
+        "length": "1 Very Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tears_of_Guthix_(quest)"
+    },
+    {
+        "name": "Temple of Ikov",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Temple_of_Ikov"
+    },
+    {
+        "name": "Throne of Miscellania",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Throne_of_Miscellania"
+    },
+    {
+        "name": "The Tourist Trap",
+        "quest_points_reward": "2",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/The_Tourist_Trap"
+    },
+    {
+        "name": "Tower of Life",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tower_of_Life"
+    },
+    {
+        "name": "Tree Gnome Village",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tree_Gnome_Village"
+    },
+    {
+        "name": "Tribal Totem",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Tribal_Totem"
+    },
+    {
+        "name": "Troll Romance",
+        "quest_points_reward": "2",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Troll_Romance"
+    },
+    {
+        "name": "Troll Stronghold",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Troll_Stronghold"
+    },
+    {
+        "name": "Underground Pass",
+        "quest_points_reward": "5",
+        "length": "5 Very Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Underground_Pass"
+    },
+    {
+        "name": "Wanted!",
+        "quest_points_reward": "1",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Wanted!"
+    },
+    {
+        "name": "Watchtower",
+        "quest_points_reward": "4",
+        "length": "4 Long",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Watchtower"
+    },
+    {
+        "name": "Waterfall Quest",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Waterfall_Quest"
+    },
+    {
+        "name": "What Lies Below",
+        "quest_points_reward": "1",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/What_Lies_Below"
+    },
+    {
+        "name": "Witch's House",
+        "quest_points_reward": "4",
+        "length": "2 Short",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Witch%27s_House"
+    },
+    {
+        "name": "Zogre Flesh Eaters",
+        "quest_points_reward": "1",
+        "length": "3 Medium",
+        "membership_requirement": true,
+        "url": "http://oldschoolrunescape.wikia.com/wiki/Zogre_Flesh_Eaters"
+    }
+]
